@@ -14,6 +14,7 @@ Data is clean to perform analysis and I used some pandas functions to understand
 2) There are no duplicate values
 3) All columns are integer based
 
+# Data Visualization
 #Key Insights from Data Visulization
 I have performed somed visualization to get insights from the data
 
