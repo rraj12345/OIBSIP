@@ -1,8 +1,8 @@
-#Retail Sales Report
+# Retail Sales Report
 
 As a part of my Data Analytics Internship at Oasis Infobyte, I have used a dataset from Kaggle (public domain) related to the Retail Sales Data.
 
-#Columns in the Dataset:
+# Columns in the Dataset:
 
 Transaction ID: A unique identifier for each transaction, allowing tracking and reference.
 Date: The date when the transaction occurred, providing insights into sales trends over time.
@@ -14,11 +14,11 @@ Quantity: The number of units of the product purchased, contributing to insights
 Price per Unit: The price of one unit of the product, aiding in calculations related to total spending.
 Total Amount: The total monetary value of the transaction, showcasing the financial impact of each purchase.
 
-#Data Loading 
+# Data Loading 
 
 Data is loaded from the Kaggle link - https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
-#Data Understanding 
+# Data Understanding 
 
 Data is clean to perform analysis and I used some pandas functions to understand data like info , null values , duplicate values
 
